@@ -5,9 +5,9 @@
 If you make use of this code, please cite [PAPER], which is the reference paper for further information concerning this classifier.
 
  <div class="row">
-    <img src="https://iili.io/JyowwQ.png" width="230">
-    <img src="https://iili.io/JyojAx.png" width="230">
-    <img src="https://iili.io/JyoeoB.png" width="230">
+    <img src="https://iili.io/JyowwQ.png" width="250">
+    <img src="https://iili.io/JyojAx.png" width="250">
+    <img src="https://iili.io/JyoeoB.png" width="250">
   <caption> <p align="center"> LGSVMs: the grid approach. </p> </caption>
 </div>
 <br />
