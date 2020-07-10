@@ -6,13 +6,13 @@ If you make use of this code, please cite [PAPER], which is the reference paper 
 
  <div class="row">
   <div class="column">
-    <img src="https://iili.io/JyowwQ.png" width="280">
+    <img src="https://iili.io/JyowwQ.png" width="200">
   </div>
   <div class="column">
-    <img src="https://iili.io/JyojAx.png" width="280">
+    <img src="https://iili.io/JyojAx.png" width="200">
   </div>
   <div class="column">
-    <img src="https://iili.io/JyoeoB.png" width="280">
+    <img src="https://iili.io/JyoeoB.png" width="200">
   </div>
   <caption> <p align="center"> LGSVMs: the grid approach. </p> </caption>
 </div>
