@@ -5,9 +5,9 @@
 If you make use of this code, please cite [PAPER], which is the reference paper for further information concerning this classifier.
 
  <div class="row">
-    <img src="https://iili.io/JyowwQ.png" width="300">
-    <img src="https://iili.io/JyojAx.png" width="300">
-    <img src="https://iili.io/JyoeoB.png" width="300">
+    <img src="https://iili.io/JyowwQ.png" width="320">
+    <img src="https://iili.io/JyojAx.png" width="320">
+    <img src="https://iili.io/JyoeoB.png" width="320">
   <caption> <p align="center"> LGSVMs: the grid approach. </p> </caption>
 </div>
 <br />
@@ -18,15 +18,9 @@ The proposed LGSVM class estimator includes _fit_, _predict_ and _fit_predict_ m
 
 <br />
  <div class="row">
-  <div class="column">
     <img src="https://iili.io/JyoNtV.png" width="300">
-  </div>
-  <div class="column">
     <img src="https://iili.io/JyoSKF.png" width="300">
-  </div>
-  <div class="column">
     <img src="https://iili.io/JyovP1.png" width="300">
-  </div>
   <caption> <p align="center"> LGSVMs: the sparse approach. </p> </caption>
 </div>
 
