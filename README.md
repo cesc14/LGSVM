@@ -18,9 +18,9 @@ The proposed LGSVM class estimator includes _fit_, _predict_ and _fit_predict_ m
 
 <br />
  <div class="row">
-    <img src="https://iili.io/JyoNtV.png" width="320">
-    <img src="https://iili.io/JyoSKF.png" width="320">
-    <img src="https://iili.io/JyovP1.png" width="320">
+    <img src="https://iili.io/JyoNtV.png" width="270">
+    <img src="https://iili.io/JyoSKF.png" width="270">
+    <img src="https://iili.io/JyovP1.png" width="270">
   <caption> <p align="center"> LGSVMs: the sparse approach. </p> </caption>
 </div>
 
