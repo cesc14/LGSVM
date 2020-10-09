@@ -1,6 +1,6 @@
 # Local-to-Global Support Vector Machines (LGSVMs)
 
-**Authors**: F. Marchetti and E. Perracchione; University of Padova, Department of Women’s and Children’s Health; University of Genova, Department of Mathematics DIMA.
+**Authors**: F. Marchetti and E. Perracchione; University of Padova, Department of Mathematics "Tullio Levi-Civita"; University of Genova, Department of Mathematics DIMA.
 
 If you make use of this code, please cite *F. Marchetti and E. Perracchione, “Local-to-Global Support Vector Machines (LGSVMs): Theoretical analysis and applications”* [link](https://www.researchgate.net/publication/343079657_Local-to-Global_Support_Vector_Machines_LGSVMs_Theoretical_analysis_and_applications), which is the reference paper for further information concerning this classifier.
 
